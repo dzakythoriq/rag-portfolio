@@ -154,4 +154,4 @@ Model embedding lokal tanpa API call — gratis, cepat, dan performa kompetitif 
 Angka ini intentionally arbitrary untuk Naive RAG — cukup untuk konteks bermakna tapi bukan hasil optimasi. Limitasi ini yang diidentifikasi sebagai salah satu penyebab Faithfulness rendah dan akan diperbaiki dengan Semantic Chunking di Advanced RAG.
 
 **Kenapa Groq?**
-Groq menyediakan inferensi Llama yang sangat cepat dengan free tier yang cukup untuk development dan demo portofolio.
+Groq menyediakan inferensi Llama yang sangat cepat dengan free tier yang cukup untuk development dan demo.
