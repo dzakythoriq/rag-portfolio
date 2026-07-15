@@ -79,7 +79,7 @@ Teknik yang akan diimplementasikan berdasarkan failure cases yang ditemukan:
 
 ```bash
 # Clone repo
-git clone https://github.com/username/rag-portfolio.git
+git clone https://github.com/dzakythoriq/rag-portfolio.gitt
 cd rag-portfolio
 
 # Buat virtual environment
